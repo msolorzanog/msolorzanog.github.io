@@ -63,10 +63,11 @@ Proyecto Solórzano Mercedes - Rojano Angel
 </script>
 
 
+
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
-  chat-title="ARTIFICIAL"
-  agent-id="bba656ef-04d0-45fc-a581-779d257a33c4"
-  language-code="en"
+  chat-title="PROYECTO"
+  agent-id="c11b905c-b15e-4927-bcf1-a3d2b81df77d"
+  language-code="es"
 ></df-messenger>
