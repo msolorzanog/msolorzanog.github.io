@@ -1,6 +1,6 @@
 ## Bienvenidos a proyecto Monitor de bebé
 Este proyecto es para detectar cuando los bebés están durmiendo o despiertos para notificar a los padres antes de que empiecen a llorar.
-
+Proyecto Solórzano Mercedes - Rojano Angel
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
