@@ -1,6 +1,7 @@
 ## Bienvenidos a proyecto Monitor de bebé
 Este proyecto es para detectar cuando los bebés están durmiendo o despiertos para notificar a los padres antes de que empiecen a llorar.
 Proyecto Solórzano Mercedes - Rojano Angel
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -12,7 +13,7 @@ Proyecto Solórzano Mercedes - Rojano Angel
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "./my_model/";
+    const URL = "https://teachablemachine.withgoogle.com/models/ob1Mgc6Vb/";
 
     let model, webcam, labelContainer, maxPredictions;
 
@@ -60,4 +61,3 @@ Proyecto Solórzano Mercedes - Rojano Angel
         }
     }
 </script>
-
